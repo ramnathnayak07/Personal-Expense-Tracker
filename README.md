@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=100px src="https://img-premium.flaticon.com/png/512/2942/2942269.png?token=exp=1622321420~hmac=4864c7ee60fb37512bdbb265604717a0"</a>
 </p>
-<h1 align = 'center'>   Spendee - Track expenses with your voice</h1>
+<h1 align = 'center'>Personal Expense Tracker</h1>
 
 ![](https://img.shields.io/badge/Made_with-Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Styled_with-Material_ui-007899?style=for-the-badge&logo=Material-ui)
@@ -11,7 +9,7 @@
 
 ### Description  ##
 <p>
-  Spendee is a simple expense tracker app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
+  Personal Expense Tracker is a simple app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
 </p>
 
 ---
