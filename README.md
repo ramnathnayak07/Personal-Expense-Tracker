@@ -18,7 +18,7 @@
 
 ---
 
-### Deployed expense tracker react app ##
+### Deployed Personal Expense Tracker app ##
 https://speech-based-expense-tracker.netlify.app/
 
 ---
